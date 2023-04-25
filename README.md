@@ -41,6 +41,9 @@ The Facebook Clone is a full-stack web application built using React, Next.js, R
 - Real-time notifications: Users receive real-time notifications for various events, such as new friend requests, messages, and likes.
 - Friend management: Users can search for, add, and remove friends, as well as view friends' profiles and posts.
 - Responsive design: The application is fully responsive and can be used on a wide range of devices, including desktops, laptops, tablets, and smartphones.
+## Sketch
+![image](https://user-images.githubusercontent.com/81791425/234160985-9128b969-6223-41d1-9edf-8842baafa59e.png)
+
 
 ## Technologies Used
 
